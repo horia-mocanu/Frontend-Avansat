@@ -1,0 +1,30 @@
+.players-list {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .players-list h1 {
+    font-size: 2em;
+    margin-bottom: 40px;
+  }
+  
+  .player-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+  }
+  
+  .player-name {
+    font-size: 1.5em;
+    margin-right: 20px;
+  }
+  
+  .player-wiki {
+    text-decoration: none;
+    color: blue;
+  }
